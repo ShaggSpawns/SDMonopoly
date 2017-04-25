@@ -118,7 +118,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Card.cpp" />
+    <ClCompile Include="Board.cpp" />
+    <ClCompile Include="AI\HardAI.cpp" />
     <ClCompile Include="Driver.cpp" />
+    <ClCompile Include="AI\EasyAI.cpp" />
+    <ClCompile Include="AI\MediumAI.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Card.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

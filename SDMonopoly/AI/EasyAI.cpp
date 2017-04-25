@@ -1,0 +1,1 @@
+// TODO: Easy AI -- Purchases any points landed on and builds houses only after not touching an unowned point from turn * 5 % 7;
