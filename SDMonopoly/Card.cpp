@@ -17,7 +17,7 @@ void Deck::Shuffle ()
 
 Card Deck::Draw()
 {
-	if ((currentPosition++) = SIZE_OF_DECK - 1)
+	if ((currentPosition++) == SIZE_OF_DECK - 1)
 		Deck::Shuffle();
 	return deck[currentPosition];
 }
