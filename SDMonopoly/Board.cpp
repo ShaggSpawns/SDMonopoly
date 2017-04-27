@@ -3,13 +3,13 @@
 
 #define SIZE_OF_BOARD 40
 
-propertySquare* Board::BuildBoard (FILE * ifp)
+Square* Board::BuildBoard (FILE * ifp)
 {
-	propertySquare board[SIZE_OF_BOARD];
+	Square board[SIZE_OF_BOARD];
 
 	for (int i = 0; i < 40; i++)
 	{
-		fscanf(ifp, "%s %d %d %d %d %d %d %d", board[i].name, board[i].cost, board[i].houseCost, board[i].hotelCost, board[i].owner, board[i].sellValue, board[i].mortgageValue);
+		fscanf(ifp, "%s %d %d %d %d %d %d", board[i].name, board[i].cost, board[i].houseCost, board[i].hotelCost, board[i].sellValue, board[i].mortgageValue);
 	}
 
 	return board;

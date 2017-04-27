@@ -124,6 +124,7 @@
     <ClCompile Include="Driver.cpp" />
     <ClCompile Include="AI\EasyAI.cpp" />
     <ClCompile Include="AI\MediumAI.cpp" />
+    <ClCompile Include="Temp.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Board.h" />
