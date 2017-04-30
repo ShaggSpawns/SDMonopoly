@@ -124,12 +124,14 @@
     <ClCompile Include="Driver.cpp" />
     <ClCompile Include="AI\EasyAI.cpp" />
     <ClCompile Include="AI\MediumAI.cpp" />
+    <ClCompile Include="Player.cpp" />
     <ClCompile Include="Temp.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Board.h" />
     <ClInclude Include="Card.h" />
     <ClInclude Include="Driver.h" />
+    <ClInclude Include="Player.h" />
     <ClInclude Include="Square.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
