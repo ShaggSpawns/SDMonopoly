@@ -1,4 +1,4 @@
-if (board[landed].isProperty)
+/*if (board[landed].isProperty)
 {
 	if (board[landed].owner == -1)
 	{
@@ -37,3 +37,4 @@ if (landed % 10 == 0)
 		player.currentSquare == 10;
 	}
 }
+*/

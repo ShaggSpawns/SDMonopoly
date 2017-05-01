@@ -12,7 +12,7 @@ enum SquareType
 	Jail,
 	LuxuryTax,
 	Railroad,
-	Property,
+	StandardPropertySquare,
 	Utility
 };
 

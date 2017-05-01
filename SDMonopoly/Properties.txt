@@ -1,0 +1,161 @@
+[Mediterranean Avenue]
+Type=Standard Property Square
+Color=Brown
+Rent={2,10,30,90,160,250}
+Building_Cost=50
+
+[Community Chest]
+Type:Square
+
+[Baltic Avenue]
+Type=Standard Property Square
+Color=Brown
+Rent={4,20,60,180,320,450}
+Building_Cost=50
+
+[Income Tax]
+Type:Square
+
+[Reading Railroad]
+Type:Property Square
+Rent={25,50,100,200}
+
+[Oriental Avenue]
+Type=Standard Property Square
+Color=Light_Blue
+Rent={6,30,90,270,400,550}
+Building_Cost=50
+
+[Chance]
+Type:Square
+
+[Vermont Avenue]
+Type=Standard Property Square
+Color=Light_Blue
+Rent={}
+Building_Cost=
+
+[Connecticut Avenue]
+Type=Standard Property Square
+Color=Light_Blue
+Rent={}
+Building_Cost=
+
+[Jail]
+Type:Square
+
+[St. Charles Place]
+Type=Standard Property Square
+Color=Pink
+Rent={6,30,90,270,400,550}
+Building_Cost=50
+
+[Electric Company]
+Type=Property Square
+Rent={-1}
+
+[States Avenue]
+Type=Standard Property Square
+Color=Pink
+Rent={10,50,150,450,625,750}
+Building_Cost=100
+
+[Virginia Avenue]
+Type=Standard Property Square
+Color=Pink
+Rent={12,60,180,500,700,900}
+Building_Cost=100
+
+[Pennsilvania Railroad]
+Type=Propery Square
+Rent={25,50,100,200}
+
+[St. James Place]
+Type=Standard Property Square
+Color=Orange
+Rent={14,70,200,550,750,950}
+Building_Cost=100
+
+[Community Chest]
+Type:Square
+
+[Tennessee Avenue]
+Type=Standard Property Square
+Color=Orange
+Rent={14,70,200,550,750,950}
+Building_Cost=100
+
+[New York Avenue]
+Type=Standard Property Square
+Color=Orange
+Rent={16,80,220,600,800,1000}
+Building_Cost=100
+
+[Kentucky Avenue]
+Type=Standard Property Square
+Color=Red
+Rent={18,90,250,700,875,1050}
+Building_Cost=150
+
+[Chance]
+Type:Square
+
+[Indiana Avenue]
+Type=Standard Property Square
+Color=Red
+Rent={18,90,250,700,875,1050}
+Building_Cost=150
+
+[Illinois Avenue]
+Type=Standard Property Square
+Color=Red
+Rent={20,100,300,750,925,1100}
+Building_Cost=150
+
+[Atlantic Avenue]
+Type=Standard Property Square
+Color=Yellow
+Rent={22,110,330,800,975,1150}
+Building_Cost=150
+
+[Ventnor Avenue]
+Type=Standard Property Square
+Color=Yellow
+Rent={22,110,330,800,975,1150}
+Building_Cost=150
+
+[Marvin Gardens]
+Type=Standard Property Square
+Color=Yellow
+Rent={24,120,360,850,1025,1200}
+Building_Cost=150
+
+[Pacific Avenue]
+Type=Standard Property Square
+Color=Green
+Rent={26,130,390,900,1100,1275}
+Building_Cost=200
+
+[North Carolina Avenue]
+Type=Standard Property Square
+Color=Green
+Rent={26,130,390,900,1100,1275}
+Building_Cost=200
+
+[Pennsylvania Avenue]
+Type=Standard Property Square
+Color=Green
+Rent={28,150,450,1000,1200,1400}
+Building_Cost=200
+
+[Park Place]
+Type=Standard Property Square
+Color=Blue
+Rent={35,175,500,1100,1300,1500}
+Building_Cost=200
+
+[Boardwalk]
+Type=Standard Property Square
+Color=Blue
+Rent={50,200,600,1400,1700,200}
+Building_Cost=200

@@ -1,7 +1,21 @@
 #include "Player.h"
 
-void Player::Pay(Player playerPaying, Player playerOwed, int amount)
+int Player::Pay(Player playerOwed, int amount)
 {
-	playerPaying.money -= amount;
-	playerOwed.money += amount;
+	if (money > amount)
+	{
+		money -= amount;
+		playerOwed.money += amount;
+
+		return amount;
+	}
+	else
+	{
+		return money;
+	}
+}
+
+void Player::ReceiveMoney(int amount)
+{
+	money += amount;
 }
